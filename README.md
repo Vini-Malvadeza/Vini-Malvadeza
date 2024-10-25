@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 💙
 
- OLÁ! Meu nome é Vinicius
+OLÁ! Meu nome é Vinicius
 
 - Estou aprendendo códigos com o [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
