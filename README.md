@@ -6,6 +6,7 @@ OLÁ! Meu nome é Vinicius
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ![](https://media1.tenor.com/m/COM78THbePQAAAAd/neymar.gif)
+  ![]( https://media1.tenor.com/m/h--XMJe7AFwAAAAC/neyney-neymar.gif)
+  
   
   
